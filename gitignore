@@ -1,0 +1,11 @@
+# Altium local history, logs and previews
+History/
+Project Logs for */
+__Previews/
+*.PcbDoc.htm
+*.SchDocPreview
+*.PcbDocPreview
+*.bak
+
+# Generated outputs (copy the Gerbers to Fabrication/ instead)
+Project Outputs for */
