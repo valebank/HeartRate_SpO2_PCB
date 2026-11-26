@@ -1,0 +1,19 @@
+FPLIB|C:\Users\Public\Documents\Altium\HeartRate_SpO2_Monitor\Pulsometro.PcbLib
+FOOTPRINT|TO220_V|Regulador TO-220 vertical, 3 pines paso 2.54 mm
+PAD|1|-100|0|0|Multi Layer|1|47|0|30|0|80|80|2
+PAD|2|0|0|0|Multi Layer|1|47|0|30|0|80|80|1
+PAD|3|100|0|0|Multi Layer|1|47|0|30|0|80|80|1
+TRACK|-205|-70|205|-70|10|Top Overlay
+TRACK|205|-70|205|110|10|Top Overlay
+TRACK|205|110|-205|110|10|Top Overlay
+TRACK|-205|110|-205|-70|10|Top Overlay
+TRACK|-205|80|205|80|10|Top Overlay
+TEXT|-270|-30|40|6|0|Top Overlay|0|0|1
+FOOTPRINT|DIODE_AXIAL_P500|Diodo axial DO-41/DO-15 paso 12.7 mm, pin 1 = catodo
+PAD|1|-250|0|0|Multi Layer|1|43|0|30|0|80|80|2
+PAD|2|250|0|0|Multi Layer|1|43|0|30|0|80|80|1
+TRACK|-160|-75|160|-75|10|Top Overlay
+TRACK|160|-75|160|75|10|Top Overlay
+TRACK|160|75|-160|75|10|Top Overlay
+TRACK|-160|75|-160|-75|10|Top Overlay
+TRACK|-120|-75|-120|75|16|Top Overlay

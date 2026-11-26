@@ -1,0 +1,115 @@
+Added Component: Designator=C1(C0805)
+Added Component: Designator=C2(C0805)
+Added Component: Designator=C4(C0805)
+Added Component: Designator=C5(C0805)
+Added Component: Designator=C7(C0805)
+Added Component: Designator=C9(C0805)
+Added Component: Designator=C10(C0805)
+Added Component: Designator=C11(Capacitor radial 8x11.5)
+Added Component: Designator=C12(C0805)
+Added Component: Designator=C13(C0805)
+Added Component: Designator=CN2(PJ-002BH)
+Added Component: Designator=D1(SMA (DO-214AC))
+Added Component: Designator=D2(SMA (DO-214AC))
+Added Component: Designator=J2(CONN_1x4_2.54)
+Added Component: Designator=J3(CONN_1x4_2.54)
+Added Component: Designator=P1(NANOSMDC016F)
+Added Component: Designator=R1(RES_AXIAL_P400)
+Added Component: Designator=R2(RES_AXIAL_P400)
+Added Component: Designator=REG1(SOT 223)
+Added Component: Designator=U1(MODULE_NUCLEO-F446RE)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NUCLEO-F446RE/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NUCLEO-F446RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NUCLEO-F446RE/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(SEEED_113990105)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NodeMCU%20v2/Seeed+Technology+Co.%252C+Ltd/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Seeed Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NodeMCU v2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NodeMCU%20v2/Seeed+Technology+Co.%252C+Ltd/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=R1-2
+Added Pin To Net: NetName=+3V3 Pin=R2-2
+Added Pin To Net: NetName=+3V3 Pin=U1-CN7_16
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5V Pin=C1-1
+Added Pin To Net: NetName=+5V Pin=C2-1
+Added Pin To Net: NetName=+5V Pin=C4-1
+Added Pin To Net: NetName=+5V Pin=C5-1
+Added Pin To Net: NetName=+5V Pin=C7-1
+Added Pin To Net: NetName=+5V Pin=C9-1
+Added Pin To Net: NetName=+5V Pin=C13-1
+Added Pin To Net: NetName=+5V Pin=J2-1
+Added Pin To Net: NetName=+5V Pin=J3-2
+Added Pin To Net: NetName=+5V Pin=REG1-2
+Added Pin To Net: NetName=+5V Pin=REG1-2
+Added Pin To Net: NetName=+5V Pin=U1-CN7_6
+Added Pin To Net: NetName=+5V Pin=U2-J1_15
+Added Net: Name=+5V
+Added Pin To Net: NetName=+9V Pin=CN2-1
+Added Pin To Net: NetName=+9V Pin=D1-1
+Added Net: Name=+9V
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=CN2-2
+Added Pin To Net: NetName=GND Pin=CN2-3
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=REG1-1
+Added Pin To Net: NetName=GND Pin=U1-CN7_8
+Added Pin To Net: NetName=GND Pin=U1-CN7_19
+Added Pin To Net: NetName=GND Pin=U1-CN7_20
+Added Pin To Net: NetName=GND Pin=U1-CN7_22
+Added Pin To Net: NetName=GND Pin=U2-J1_14
+Added Pin To Net: NetName=GND Pin=U2-J2_7
+Added Pin To Net: NetName=GND Pin=U2-J2_14
+Added Net: Name=GND
+Added Pin To Net: NetName=I2C1_SCL Pin=J2-3
+Added Pin To Net: NetName=I2C1_SCL Pin=R2-1
+Added Pin To Net: NetName=I2C1_SCL Pin=U1-CN10_3
+Added Net: Name=I2C1_SCL
+Added Pin To Net: NetName=I2C1_SDA Pin=J2-2
+Added Pin To Net: NetName=I2C1_SDA Pin=R1-1
+Added Pin To Net: NetName=I2C1_SDA Pin=U1-CN10_5
+Added Net: Name=I2C1_SDA
+Added Pin To Net: NetName=I2C2_SCL Pin=J3-4
+Added Pin To Net: NetName=I2C2_SCL Pin=U1-CN10_25
+Added Net: Name=I2C2_SCL
+Added Pin To Net: NetName=I2C2_SDA Pin=J3-3
+Added Pin To Net: NetName=I2C2_SDA Pin=U1-CN10_31
+Added Net: Name=I2C2_SDA
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=C11-1
+Added Pin To Net: NetName=NetC10_1 Pin=C12-1
+Added Pin To Net: NetName=NetC10_1 Pin=D2-2
+Added Pin To Net: NetName=NetC10_1 Pin=P1-2
+Added Pin To Net: NetName=NetC10_1 Pin=REG1-3
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=P1-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=UART_NUC_RX Pin=U1-CN10_33
+Added Pin To Net: NetName=UART_NUC_RX Pin=U2-J2_12
+Added Net: Name=UART_NUC_RX
+Added Pin To Net: NetName=UART_NUC_TX Pin=U1-CN10_21
+Added Pin To Net: NetName=UART_NUC_TX Pin=U2-J2_13
+Added Net: Name=UART_NUC_TX
+Added Class: Name=Alimentacion_Modulos
+Added Class: Name=HeartRate_SpO2_Monitor
+Added Class: Name=Power
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
