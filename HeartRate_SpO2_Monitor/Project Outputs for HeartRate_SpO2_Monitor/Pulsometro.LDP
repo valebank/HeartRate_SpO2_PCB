@@ -1,4 +1,0 @@
-Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\HeartRate_SpO2_Monitor\Pulsometro.PcbDoc
-LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pulsometro-plated.txt|DrillLayers=gtl,gbl
-LayersSetName=Top_Bot_Plated_Rect_Holes|DrillFile=pulsometro-rectholes-plated.txt|DrillLayers=gtl,gbl
-LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=pulsometro-nonplated.txt|DrillLayers=gtl,gbl
